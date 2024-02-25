@@ -32,3 +32,4 @@ public class FatorialRecursivo {
 //fatorial(2) retorna 2 * fatorial(1), que é 2 * 1 = 2.
 //fatorial(3) retorna 3 * fatorial(2), que é 3 * 2 = 6.
 //fatorial(4) retorna 4 * fatorial(3), que é 4 * 6 = 24.
+

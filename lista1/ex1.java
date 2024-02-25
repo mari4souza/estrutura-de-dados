@@ -1,5 +1,4 @@
 // Escreva uma função recursiva que recebe um número inteiro positivo n e retorna a soma de todos os números inteiros de 1 até n.
-
 package lista1;
 
 import java.util.Scanner;
